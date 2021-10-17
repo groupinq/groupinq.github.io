@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*Navbarにロゴを入れる*/
+.navbar-brand {
+    background: url("../img/name_l.png") no-repeat left center;
+    background-size: contain;
+    height: 50px;
+    width: 250px;
+  }
