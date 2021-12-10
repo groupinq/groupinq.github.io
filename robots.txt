@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupinq.github.io/sitemap.xml
